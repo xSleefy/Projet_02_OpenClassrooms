@@ -10,19 +10,16 @@ Projet n°2 - Formation Développeur Android - OpenClassrooms
 
 Ajouter et supprimer des utilisateurs.
 
-## Badges
-
-![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg) ![ForTheBadge built-for-android](https://forthebadge.com/images/badges/built-for-android.svg) ![ForTheBadge made-with-java](https://forthebadge.com/images/badges/made-with-java.svg)
-
-## Status
-
-Projet validé
-
 ## Installation
 
-Depuis l'adresse Github https://github.com/ShiNoragami/Projet_02_OC. Et cliquez sur le boutton clone or download.
-Pour ouvrir, compiler puis executer l'application, télécharger Android Studio à l'adresse suivante : https://developer.android.com/studio .
+Téléchargez l'application depuis l'adresse Github : https://github.com/xSleefy/Projet_02_OpenClassrooms. 
+    Cliquez sur le boutton vert "Code" puis sur "Download ZIP".
+
+Téléchargez puis installez Android Studio à cette adresse : https://developer.android.com/studio.
+    Ouvrez Android Studio, ouvrez un projet existant en sélectionnant le dossier "MagicGithub" préalablement téléchargé.
 
 ## Lancement de l'application
 
-Lancer Android Studio, une fois cela fait, cliquer sur "Check out project from version control" et selectionner Git. Coller ensuite l'url clonée dans le champ URL puis cliquer sur "clone" Patienter le temps de la compilation... Dans la barre d'outils du logiciel, il y a deux onglets avec "App" et "Nexus 5X API28", à droite de ce dernier, un bouton vert play ">", cliquer dessus. Un émulateur se lancera avec l'application.
+Dans la barre d'outils en haut d'Android Studio, sélectionnez "App" dans le premier menu déroulant et configurez un dispositif virtuel de votre choix en sélectionnant dans le deuxième menu déroulant "AVD Manager". 
+Une fois configuré, sélectionnez votre dispositif virtuel dans le deuxième menu déroulant puis cliquez sur le bouton "Run" (Maj + F10). 
+Votre émulateur se lancera et démarrera l'application.
