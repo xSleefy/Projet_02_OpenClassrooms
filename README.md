@@ -6,7 +6,7 @@ Projet n°2 - Formation Développeur Android - OpenClassrooms
 
 ## Fonctions
 
-Affiche une liste d'utilisateurs fictifs (Avatar + Nom).
+Affiche une liste d'utilisateurs fictifs (Avatar + Nom).  
 Ajouter un utilisateur aléatoire.
 Supprimer un utilisateur.
 
